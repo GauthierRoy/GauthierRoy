@@ -37,5 +37,3 @@ My curiosity extends beyond ML! Recently, I've been digging into the technical d
 *   I'm actively seeking **Machine Learning Engineer** roles or **CIFRE PhD opportunities** where I can tackle challenging problems in LLMs, security, or agentic AI.
 *   I'm always open to **collaboration** on projects related to my interests or participating in **hackathons**.
 *   Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gauthier--roy/) or [Email](mailto:gauthierroy1@gmail.com).
-
-[![Gauthier Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauthierRoy&show_icons=true&theme=radical)](https://github.com/GauthierRoy)
